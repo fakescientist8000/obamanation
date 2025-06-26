@@ -307,13 +307,13 @@ if(!campaignTrail_temp.loaded1){
   {searchString: "turned out to be more of a red ripple", explanationText: "<img src=https://i.imgur.com/RglaWRY.jpeg> The 2010 midterms saw the Democrats fare much better than originally thought, keeping hold of a 53 seat majority in the Senate following close wins in Illinois and Wisconsin; the House returned to GOP control, but by a smaller than estimated margin, dethroning Speaker Pelosi and her ilk."},
   {searchString: "Saudi King Abdullah", explanationText: "<img src=https://i.imgur.com/fW2MoLm.jpeg> 30 wives and counting."},
   {searchString: "Duncan", explanationText: "<img src=https://i.imgur.com/xX4ysZG.jpeg> Secretary of Education and mastermind behind Common Core."}
-  {searchString: "Cheney", explanationText: "<img src=https://cdn.britannica.com/32/73332-004-C7DE1B6A/Dick-Cheney.jpg> War Criminal #2"}
-  {searchString: "Biden", explanationText: "<img src=https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YFOBAD7M3VL53HP4PHBXYFRMAU.jpg> Certified Lover Boy"}
-  {searchString: "Hillary", explanationText: "<img src=https://media.cnn.com/api/v1/images/stellar/prod/150519213554-hillary-clinton-laughing-iowa.jpg?q=w_3000,h_2000,x_0,y_0,c_fill> Evil bitch."}
-  {searchString: "John Roberts", explanationText: "<img src=https://thehill.com/wp-content/uploads/sites/2/2025/03/justiceroberts_030425gn04_w.jpg?strip=1> Claims to be a 'moderate'. Yeah, right."}
-  {searchString: "Rumsfeld", explanationText: "<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwORSwDOmm0mqsw_biwOWNaIvwfXgpEQSz8Q&s> War Criminal #3"}
-  {searchString: "Rice", explanationText: "<img src=https://static.politico.com/dims4/default/a50fbde/2147483647/resize/1160x%3E/quality/90/?url=http%3A%2F%2Fs3-origin-images.politico.com%2F2014%2F04%2F16%2F140416_condi_rice_gty.jpg> War Criminal #4"}
-  {searchString: "Hayden", explanationText: "<img src=https://s.abcnews.com/images/Politics/michael-hayden-file-gty-ml-181123_hpMain_16x9_1600.jpg> Supposedly trustworthy."}
+  {searchString: "Cheney", explanationText: "<img src=https://imgur.com/a/mxeSxs3> War Criminal #2"}
+  {searchString: "Biden", explanationText: "<img src=https://imgur.com/a/LkYNQyf> Certified Lover Boy"}
+  {searchString: "Clinton", explanationText: "<img src=https://imgur.com/a/MEtvsnj> Evil bitch."}
+  {searchString: "John Roberts", explanationText: "<img src=https://imgur.com/a/Z4SuaMt> Claims to be a 'moderate'. Yeah, right."}
+  {searchString: "Rumsfeld", explanationText: "<img src=https://imgur.com/a/heweJGb> War Criminal #3"}
+  {searchString: "Rice", explanationText: "<img src=https://imgur.com/a/4S6qyun> War Criminal #4"}
+  {searchString: "Hayden", explanationText: "<img src=https://imgur.com/a/X3tB0EK> Supposedly trustworthy."}
   ];
 	
 	campaignTrail_temp.banner1 = createBanner("https://i.imgur.com/dXHtTbw.png", containerRef, true);
