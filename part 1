@@ -875,7 +875,22 @@ if(!campaignTrail_temp.loaded1){
 	"The Bigger They Are..." : {
 	  "image" : "https://i.imgur.com/LNvwi1K.png",
 	  "description" : "Beat Goliath.",
-	  "cannotBeCheated" : false
+	  "cannotBeCheated" : true
+	},	
+        "Once More With Experience" : {
+	  "image" : "https://imgur.com/a/MPCIyrc",
+	  "description" : "Make a sequel better than the original.",
+	  "cannotBeCheated" : true
+	},
+	"Girlboss" : {
+	  "image" : "https://imgur.com/a/S51d7Eq",
+	  "description" : "Gatekeep the White House.",
+	  "cannotBeCheated" : true
+	},
+	"Won't Be Back" : {
+	  "image" : "https://imgur.com/a/dyz9UET",
+	  "description" : "Exterminate a potential Presidentinator.",
+	  "cannotBeCheated" : true
 	},
 	"The Philosopher King" : {
 	  "image" : "https://i.imgur.com/SWa2q4A.png",
