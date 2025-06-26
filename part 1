@@ -314,6 +314,7 @@ if(!campaignTrail_temp.loaded1){
   {searchString: "Rumsfeld", explanationText: "<img src=https://imgur.com/a/heweJGb> War Criminal #3"}
   {searchString: "Rice", explanationText: "<img src=https://imgur.com/a/4S6qyun> War Criminal #4"}
   {searchString: "Hayden", explanationText: "<img src=https://imgur.com/a/X3tB0EK> Supposedly trustworthy."}
+
   ];
 	
 	campaignTrail_temp.banner1 = createBanner("https://i.imgur.com/dXHtTbw.png", containerRef, true);
