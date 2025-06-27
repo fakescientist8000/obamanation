@@ -880,18 +880,18 @@ if(!campaignTrail_temp.loaded1){
 	  "cannotBeCheated" : true
 	},	
         "Once More With Experience" : {
-	  "image" : "https://imgur.com/a/MPCIyrc",
+	  "image" : "https://i.imgur.com/g2WFNZ8.png",
 	  "description" : "Make a sequel better than the original.",
 	  "cannotBeCheated" : true
 	},
 	"Girlboss" : {
-	  "image" : "https://imgur.com/a/S51d7Eq",
+	  "image" : "https://i.imgur.com/4U4rDV3.png",
 	  "description" : "Gatekeep the White House.",
 	  "cannotBeCheated" : true
 	},
 	"Won't Be Back" : {
-	  "image" : "https://imgur.com/a/dyz9UET",
-	  "description" : "Exterminate a potential Presidentinator.",
+	  "image" : "https://i.imgur.com/58LOI5H.png",
+	  "description" : "Terminate a potential Presidentinator.",
 	  "cannotBeCheated" : true
 	},
 	"The Philosopher King" : {
