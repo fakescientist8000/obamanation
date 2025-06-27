@@ -36553,7 +36553,7 @@ const menuItemsA = [
     { photo: 'https://imgur.com/pLJzf7f.png', name: 'David Petraeus', text: 'General Petraeus could be planning a run against you if your administration becomes unpopular domestically and unsuccessful in foreign affairs.', button: 'Defer', id: 'PETRAEUS_A'},
     { photo: 'https://imgur.com/SDY67Tf.png', name: 'Mitt Romney', text: 'Despite his failed attempt in 2008, Romney once again up for bat for the presidency. If the Republican field is filled with unelectable candidates, then Romney is sure to seize the nomination.', button: 'Defer', id: 'ROMNEY_A'},
     { photo: 'https://imgur.com/V3FjFMn.png', name: 'Joe Arpaio', text: 'Arpaio is not running for the Presidency, he\'s running for the fame, only hoping to take the position Pat Buchanan once had among Republicans, and smear the President's legacy.', button: 'Defer', id: 'ARPAIO_A'},
-    { photo: 'https://imgur.com/K4Nk7qU.png', name: 'Ron Paul', text: 'After a successful grassroots campaign in 2008, Ron Paul remains more popular than ever in the eyes of young conservatives. However, his relations with the Republican establishment ensure that he will never get the nomination. Right?', button: 'Defer', id: 'PAUL_A'}
+    { photo: 'https://imgur.com/K4Nk7qU.png', name: 'Ron Paul', text: 'After a successful grassroots campaign in 2008, Ron Paul remains more popular than ever in the eyes of young conservatives. However, his relations with the Republican establishment ensure that he will never get the nomination. Right?.', button: 'Defer', id: 'PAUL_A'}
 ]
 
 
