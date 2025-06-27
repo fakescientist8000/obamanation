@@ -263,6 +263,7 @@ if(!campaignTrail_temp.loaded1){
   {searchString: "Boehner", explanationText: "<img src=https://i.imgur.com/HFRocAv.jpeg> House Republican leader."},
   {searchString: "Bob Bauer", explanationText: "<img src=https://i.imgur.com/ujXmSnP.jpeg> White House Counsel. The sledgehammer."},
   {searchString: "Robert Gates", explanationText: "<img src=https://i.imgur.com/eti4kCD.jpeg> A testament to the amount of change we should be expecting from your presidency?"},
+  {searchString: "Gates", explanationText: "<img src=https://i.imgur.com/eti4kCD.jpeg> A testament to the amount of change we should be expecting from your presidency?"},
   {searchString: "Larry Summers", explanationText: "<img src=https://i.imgur.com/CbA8pXH.jpeg> Failing upwards."},
   {searchString: "Barney", explanationText: "<img src=https://i.imgur.com/KQhRYUr.jpeg> Nipples protruding."},
   {searchString: "Barney Frank", explanationText: "<img src=https://i.imgur.com/KQhRYUr.jpeg> Nipples protruding."},
