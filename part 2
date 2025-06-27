@@ -36528,21 +36528,24 @@ function onGameWindowChangeCandidates() {
 
 let ChristieCand = { photo: 'https://imgur.com/lzV0zAy.png', name: 'Chris Christie', text: 'Your failed attempts to reform healthcare and kill Bin Laden have made the popular New Jersey governor enter the fray. Already, the polls are showing an unbelievable margins between him and you.', button: 'Defer', id: 'CHRISTIE_A'}
 let HuntsmanCand = { photo: 'https://imgur.com/ThvCNpw.png', name: 'Jon Huntsman', text: 'With your attempt to invite him to the administration failed, Jon Huntsman has officially entered the race for president. If your foreign policy is a mess, he will be the one to face you this November.', button: 'Defer', id: 'HUNTSMAN_B'}
-let CheneyCand = { photo: 'https://imgur.com/bMWFoxk.png', name: 'Dick Cheney', text: 'Dick Cheney? That Dick Cheney? It can\'t be real. What are the Republicans thinking, nominating Dick Cheney, the war criminal, the man who has a 13% approval rating upon leaving office? At this rate, even winning Wyoming or Utah would be a hard challenge for them.', button: 'Defer', id: 'CHENEY_A'}
-let CheneyImpeach = { photo: 'https://imgur.com/I7JJt2v.png', name: 'Dick Cheney', text: 'What the fuck are you doing? Are you going to lose to Dick fucking Cheney?', button: 'Defer', id: 'CHENEY_B'}
-let GingrichCand = { photo: 'https://imgur.com/0fmfNqs.png', name: 'Newt Gingrich', text: 'The architecture of the \'Republican Revolution\' himself has returned this time to court your administrations dovish on national security.', button: 'Defer', id: 'GINGRICH_A'}
+let CheneyCand = { photo: 'https://imgur.com/bMWFoxk.png', name: 'Dick Cheney', text: 'Dick Cheney? That Dick Cheney? It can\'t be real. What are the Republicans thinking, nominating the man who has a 13% approval rating upon leaving office? At this rate, winning Wyoming or Utah would be a hard challenge for them.', button: 'Defer', id: 'CHENEY_A'}
+let CheneyImpeach = { photo: 'https://imgur.com/I7JJt2v.png', name: 'Dick Cheney', text: 'What the fuck are you doing? Are you going to lose to DICK FUCKING CHENEY?', button: 'Defer', id: 'CHENEY_B'}
+let GingrichCand = { photo: 'https://imgur.com/0fmfNqs.png', name: 'Newt Gingrich', text: 'The architecture of the \'Republican Revolution\' himself has returned this time to court your administrations dovishness on national security.', button: 'Defer', id: 'GINGRICH_A'}
 let BachmannCand = { photo: 'https://imgur.com/NWD5Got.png', name: 'Michele Bachmann', text: 'With evangelical outrage growing everyday since the beginning of your presidency, Michele Bachmann has tapped in that momentum to put her ahead in the polls.', button: 'Defer', id: 'BACHMANN_A'}
 let TrumpCand = { photo: 'https://imgur.com/rnjfBX6.png', name: 'Donald Trump', text: 'The media-estate mogul has been flirting with a presidential run multiple times before, but all back down from it. However, this time, with your failure to save the blue-collar working class, it seems like a wave of populism will carry Trump to the nomination.', button: 'Defer', id: 'TRUMP_A'}
 let PaulCand = { photo: 'https://imgur.com/Ku6HQf0.png', name: 'Ron Paul', text: 'With your administration\'s aggressive neoliberal and globalist rhetoric, Ron Paul has gained enormous momentum among Tea Party conservatives and online social media. If there\'s no one else to oppose you, Paul will surely get the nomination.', button: 'Defer', id: 'PAUL_B'}
 let PaulCan = { photo: 'https://imgur.com/Ku6HQf0.png', name: 'Ron Paul', text: 'With your administration\'s aggressive neoliberal and globalist rhetoric, Ron Paul has gained enormous momentum among Tea Party conservatives and online social media. If there\'s no one else to oppose you, Paul will surely get the nomination.', button: 'Defer', id: 'PAUL_C'}
-let McChrytalCand = { photo: 'https://imgur.com/oWWMhHL.png', name: 'Stanley McChrystal', text: 'Fuming from your decision to fire him from the administration, Stanley McChrystal is looking to take revenge on you this November.', button: 'Defer', id: 'MCCHRYSTAL_A'}
+let McChrytalCand = { photo: 'https://imgur.com/oWWMhHL.png', name: 'Stanley McChrystal', text: 'Fuming from your decision to fire him from the administration and replace him with General Petreaus, Stanley McChrystal is looking to take revenge on you this November.', button: 'Defer', id: 'MCCHRYSTAL_A'}
 let BloombergCand = { photo: 'https://imgur.com/nxlFCha.png', name: 'Mike Bloomberg', text: 'Worrying over your administration\'s radical anti-police agenda, Mayor Bloomberg present himself to be a bipartisan voice to bring stability back to America like how he did it with New York City.', button: 'Defer', id: 'BLOOMBERG_A'}
 let RiceCand = { photo: 'https://imgur.com/ZdVGNjU.png', name: 'Condoleezza Rice', text: 'The neoconservatives have returned in response to your administration\'s failed attempts to intervene in the Middle East. All it needs for them to snatch the nomination is that if you decide to break with the left in your party', button: 'Defer', id: 'RICE_A'}
+let PalinCand = { photo: 'https://i.imgur.com/bsvZ9ec.jpeg', name: 'Sarah Palin', text: 'The former VP nominee and current Tea Party darling is rapidly accumulating grassroots support. Fail the people, and squander the hope you once created, and she will take the reigns of the GOP.', button: 'Defer', id: PALIN_A'}
+let McCainCand = { photo: 'https://i.imgur.com/pvtGOVl.png', name: 'John McCain', text: 'A blast from the past, the RINO-in-chief has returned to the national political arena with the sole task of destroying your abortive presidency. It's too late to go back now.', button: 'Defer', id: MCCAIN_A'}
+let SchwarzneggerCand = { photo: 'https://i.imgur.com/qRE96zf.png', name: 'Arnold Schwarznegger', text: 'A rogue element, born of a judicial Pandora's box of your own design. Whilst he may preside over a cosmopolitan hellscape, his bombastic charm to the youth and vague paeons to unity have put him in serious contention.', button: 'Defer', id: SCHWARZNEGGER_A'}
 
-let SandersPrim = { photo: 'https://imgur.com/xgmjud1.png', name: 'Bernie Sanders', text: 'With your low credibility with the left, Bernie Sanders has been talking about a potential primary challenge against you, hoping to push you further left on certain issues.', button: 'Defer', id: 'SANDERS_A'}
 let SandersCand = { photo: 'https://imgur.com/ABupncU.png', name: 'Bernie Sanders', text: 'Outraged by your remarks about his primary challenge, Sanders has led an army of angry leftists into the general election, promising to destroy you for your betrayal of the left.', button: 'Defer', id: 'SANDERS_B'}
 let BeckCand = { photo: 'https://imgur.com/cH0Mbhn.png', name: 'Glenn Beck', text: 'Huntsman\'s nomination has draw dissastified conservatives into Beck\'s campaign. With the conservative movement divided, it\'s clear that you can do much more to put yourself in favour of this election.', button: 'Defer', id: 'BECK_A'}
 
+let SandersFake = { photo: 'https://imgur.com/xgmjud1.png', name: 'Bernie Sanders', text: 'With your lack of friendliness with the left, Bernie Sanders has been talking about a potential primary challenge against you, hoping to push you further left on certain issues.', button: 'Defer', id: 'SANDERS_A'}
 let HuntsmanFake = { photo: 'https://imgur.com/9p4BJvO.png', name: 'Jon Huntsman', text: 'Despite being one of Republican\'s most popular figures early on, he has basically committed political suicide through accepting to work for your administration.', button: 'Defer', id: 'HUNTSMAN_C'}
 let CainFake = { photo: 'https://imgur.com/YZa9mc9.png', name: 'Herman Cain', text: 'The author of the \'9-9-9\' tax plan has been gaining momentum lately thanks to your overspending budget. However, without money, support and other factors, it\'s clear that he won\'t get the nomination directly.', button: 'Defer', id: 'CAIN_A'}
 let SantorumFake = { photo: 'https://imgur.com/7brK5IX.png', name: 'Rick Santorum', text: 'The conservative \'carousel\' has finally names Rick Santorum as its next candidate. With such an unstable support, it\'s unlikely that he will reach the nomination.', button: 'Defer', id: 'SANTORUM_A'}
@@ -36552,7 +36555,7 @@ const menuItemsA = [
     { photo: 'https://imgur.com/ThvCNpw.png', name: 'Jon Huntsman', text: 'Governor Huntsman, the popular moderate governor of Utah, poses as one of the biggest threats to your re-election campaign. The sooner he is dealt with, the better.', button: 'Defer', id: 'HUNTSMAN_A'},
     { photo: 'https://imgur.com/pLJzf7f.png', name: 'David Petraeus', text: 'General Petraeus could be planning a run against you if your administration becomes unpopular domestically and unsuccessful in foreign affairs.', button: 'Defer', id: 'PETRAEUS_A'},
     { photo: 'https://imgur.com/SDY67Tf.png', name: 'Mitt Romney', text: 'Despite his failed attempt in 2008, Romney is sure to try again for the presidency this time. If the Republican field is filled with unelectable candidates, then Romney is sure to take the nomination.', button: 'Defer', id: 'ROMNEY_A'},
-	{ photo: 'https://imgur.com/V3FjFMn.png', name: 'Joe Arpaio', text: 'Arpaio is not running for the Presidency, he\'s running for the fame, only hoping to take the position Pat Buchanan once had among Republicans. If a coalition is to unite behind him, the party must be in a sorry state.', button: 'Defer', id: 'ARPAIO_A'},
+    { photo: 'https://imgur.com/V3FjFMn.png', name: 'Joe Arpaio', text: 'Arpaio is not running for the Presidency, he\'s running for the fame, only hoping to take the position Pat Buchanan once had among Republicans. If a coalition is to unite behind him, the party must be in a sorry state.', button: 'Defer', id: 'ARPAIO_A'},
     { photo: 'https://imgur.com/K4Nk7qU.png', name: 'Ron Paul', text: 'After a successful grassroots campaign in 2008, Ron Paul remains more popular than ever in the eyes of young conservatives. However, his relations with the Republican establishment ensured that he would never get the nomination.', button: 'Defer', id: 'PAUL_A'}
 ]
 
@@ -36561,20 +36564,20 @@ let savedX = null;
 let savedY = null;
 
 const WinsMap = {
-    "-2": `Obama-Biden has <i><span style="color: #CE0F0F;">no</i></span> <b>wins</b>. (<span style="color:#CE0F0F;">-2</span>)`,
-    "-1": `Obama-Biden has <i><span style="color: #CE0F0F;">no</i></span> <b>wins</b>. (<span style="color:#CE0F0F;">-1</span>)`,
+    "-2": `Obama-Biden has <i><span style="color: #CE0F0F;">a few</i></span> <b>losses</b>. (<span style="color:#CE0F0F;">-2</span>)`,
+    "-1": `Obama-Biden has <i><span style="color: #CE0F0F;">a</i></span> <b>loss</b>. (<span style="color:#CE0F0F;">-1</span>)`,
     "0": `Obama-Biden has <i><span style="color: #CE0F0F;">no</i></span> <b>wins</b>. (<span style="color:#CE0F0F;">0</span>)`,
-    "1": `Obama-Biden has <i><span style="color: #CE0F0F;">few</i></span> <b>wins</b>. (<span style="color:#CE0F0F;">1</span>)`,
+    "1": `Obama-Biden has <i><span style="color: #CE0F0F;">a</i></span> <b>win</b>. (<span style="color:#CE0F0F;">1</span>)`,
     "2": `Obama-Biden has <i><span style="color: #FADC0E;">some</i></span> <b>wins</b>. (<span style="color:#FADC0E;">2</span>)`,
     "3": `Obama-Biden has <i><span style="color: #98D937;">many</i></span> <b>wins</b>. (<span style="color:#98D937;">3</span>)`,
     "4": `Obama-Biden has <i><span style="color: #98D937;">plenty</i></span> of <b>wins</b>. (<span style="color:#98D937;">4</span>)`,
-    "5": `Obama-Biden has <i><span style="color: #15A600;">a tons</i></span> of <b>wins</b>. (<span style="color:#15A600;">5</span>)`,
-    "6": `Obama-Biden has <i><span style="color: #15A600;">a tons</i></span> of <b>wins</b>. (<span style="color:#15A600;">6</span>)`,
-	"7": `Obama-Biden has <i><span style="color: #15A600;">a tons</i></span> of <b>wins</b>. (<span style="color:#15A600;">7</span>)`,
+    "5": `Obama-Biden has <i><span style="color: #15A600;">tons</i></span> of <b>wins</b>. (<span style="color:#15A600;">5</span>)`,
+    "6": `Obama-Biden has <i><span style="color: #15A600;">tons</i></span> of <b>wins</b>. (<span style="color:#15A600;">6</span>)`,
+    "7": `Obama-Biden has <i><span style="color: #15A600;">tons</i></span> of <b>wins</b>. (<span style="color:#15A600;">7</span>)`,
 };
 const CredMap = {
-    "-8": `President Obama has <i><span style="color: #CE0F0F;">abysmal</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-8</span>)`,
-    "-7": `President Obama has <i><span style="color: #CE0F0F;">abysmal</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-7</span>)`,
+    "-8": `President Obama has <i><span style="color: #CE0F0F;">god awful</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-8</span>)`,
+    "-7": `President Obama has <i><span style="color: #CE0F0F;">god awful</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-7</span>)`,
     "-6": `President Obama has <i><span style="color: #CE0F0F;">abysmal</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-6</span>)`,
     "-5": `President Obama has <i><span style="color: #CE0F0F;">abysmal</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-5</span>)`,
     "-4": `President Obama has <i><span style="color: #CE0F0F;">abysmal</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-4</span>)`,
@@ -36679,13 +36682,13 @@ function openSurrogates() {
         overviewtxt += "• "+ `${winsText}` + "<br>";
         overviewtxt += "• "+ `${credText}` + "<br>";
         if((e.player_answers.includes(9110) || e.player_answers.includes(9114) || e.player_answers.includes(8950) || e.player_answers.includes(9113) || e.player_answers.includes(8947) || e.player_answers.includes(8951) || e.player_answers.includes(9021) || e.player_answers.includes(9029) || e.player_answers.includes(9020) || e.player_answers.includes(9032) || e.player_answers.includes(9052) || e.player_answers.includes(9056) || e.player_answers.includes(9053) || e.player_answers.includes(9066) || e.player_answers.includes(9055) || e.player_answers.includes(9059) || e.player_answers.includes(9064))){ //Failed Garland
-            overviewtxt += "• "+  `We've <i>appointed</i> judge <span style="color: #CE0F0F;">Merrick Garland</span>` + "<br>";
+            overviewtxt += "• "+  `We've <i>resorted to</i> judge <span style="color: #CE0F0F;">Merrick Garland</span>` + "<br>";
         }
 		if((e.player_answers.includes(8953) || e.player_answers.includes(8949) || e.player_answers.includes(8957) || e.player_answers.includes(9112) || e.player_answers.includes(9116) || e.player_answers.includes(9120) || e.player_answers.includes(9022) || e.player_answers.includes(9030) || e.player_answers.includes(9034) || e.player_answers.includes(9038) || e.player_answers.includes(9042) || e.player_answers.includes(9048) || e.player_answers.includes(9054) || e.player_answers.includes(9058) || e.player_answers.includes(9067) || e.player_answers.includes(9070) || e.player_answers.includes(9074) || e.player_answers.includes(9082))){ //Choosed Garland
             overviewtxt += "• "+  `We've <i>appointed</i> judge <span style="color: #FADC0E;">Merrick Garland</span>` + "<br>";
         }
 		if((e.player_answers.includes(9025) ||  e.player_answers.includes(9024) || e.player_answers.includes(9060) || e.player_answers.includes(9062) || e.player_answers.includes(9063))){ //Failed Kagan
-            overviewtxt += "• "+  `We've <i>appointed</i> judge <span style="color: #CE0F0F;">Elena Kagan</span>` + "<br>";
+            overviewtxt += "• "+  `We've <i>resorted to</i> judge <span style="color: #CE0F0F;">Elena Kagan</span>` + "<br>";
         }
 		if((e.player_answers.includes(8948) || e.player_answers.includes(8952) || e.player_answers.includes(8952) || e.player_answers.includes(8956) || e.player_answers.includes(9111) || e.player_answers.includes(9115) || e.player_answers.includes(9119) || e.player_answers.includes(9027) || e.player_answers.includes(9031) || e.player_answers.includes(9035) || e.player_answers.includes(9043) || e.player_answers.includes(9047) || e.player_answers.includes(9049) || e.player_answers.includes(9057) || e.player_answers.includes(9061) || e.player_answers.includes(9065) || e.player_answers.includes(9075) || e.player_answers.includes(9079) || e.player_answers.includes(9083))){ //Choosed Kagan
             overviewtxt += "• "+  `We've <i>appointed</i> judge <span style="color: #FADC0E;">Elena Kagan</span>` + "<br>";
@@ -36739,7 +36742,7 @@ function openSurrogates() {
             overviewtxt += "• "+  `We've <i>signed</i> the <span style="color: #FADC0E;">America's Healthy Future</span>` + "<br>" + `<span style="color: #FADC0E;">Act</span>` + "<br>";
         }
 		if(e.player_answers.includes(9017)){
-            overviewtxt += "• "+  `Healthcare reform <em><span style="color: #CE0F0F;">has failed</span></em>` + "<br>";
+            overviewtxt += "• "+  `We've <em><span style="color: #CE0F0F;">failed healthcare reform.</span></em>` + "<br>";
         }
 		
 		if(e.player_answers.includes(9098) ||  e.player_answers.includes(9101)){
@@ -36950,7 +36953,7 @@ function addHeadquarterButton() {
 
     newButton.style.marginLeft = '1.5em';
 
-    newButton.innerHTML = 'My Computer';
+    newButton.innerHTML = 'Computer';
 
     // Attach the click event listener
     newButton.addEventListener('click', openSurrogates);
