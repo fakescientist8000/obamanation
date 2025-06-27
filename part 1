@@ -269,6 +269,7 @@ if(!campaignTrail_temp.loaded1){
   {searchString: "Glenn Beck", explanationText: "<img src=https://i.imgur.com/nZJc2Yl.jpeg> School's in session."},
   {searchString: "Michelle", explanationText: "<img src=https://i.imgur.com/JZJTOJc.jpeg> Proud of her country."},
   {searchString: "Muammar Gaddafi", explanationText: "<img src=https://i.imgur.com/3X5d8we.jpeg> Libya's strongman. That is how you spell it, right?"},
+  {searchString: "Gaddafi", explanationText: "<img src=https://i.imgur.com/3X5d8we.jpeg> Libya's strongman. That is how you spell it, right?"},
   {searchString: "Hosni Mubarak", explanationText: "<img src=https://i.imgur.com/BhPZfnn.jpeg> President of Egypt."},
   {searchString: "Mubarak", explanationText: "<img src=https://i.imgur.com/BhPZfnn.jpeg> President of Egypt."},
   {searchString: "Osama bin Laden", explanationText: "<img src=https://i.imgur.com/GYK52Cp.jpeg> Chickens come to roost."},
