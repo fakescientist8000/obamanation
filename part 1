@@ -325,7 +325,7 @@ if(!campaignTrail_temp.loaded1){
 	
 	RecReading=true
   
-	document.getElementById("header").src = "https://i.imgur.com/UwdDFRV.png"
+	document.getElementById("header").src = "https://i.imgur.com/pP3zND5.png"
 	nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#08043d"
 	nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#cccccc"
 	document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title
@@ -333,7 +333,7 @@ if(!campaignTrail_temp.loaded1){
 	$("#game_window")[0].style.backgroundColor = "#cccccc"
 	document.body.background = "https://i.imgur.com/gtQJTON.png"
 	$("#game_window")[0].style.backgroundImage = "url(https://i.imgur.com/ENrcfdQ.png)"
-	$(".container")[0].style.border = ".2em double #cccccc"
+	$(".container")[0].style.border = ".2em double #cccccc" 
 	$("#game_window")[0].style.border = ".2em double #ffffff"
 	document.head.innerHTML += "<style>#results_container {color:#ffffff;} .inner_window_w_desc {background-color:#040c42 !important;}</style>";
   
@@ -345,7 +345,7 @@ if(!campaignTrail_temp.loaded1){
 	document.getElementById("wittyquote").color = "white"
 	corrr = `
 	<div style="font-size: 11px; font-family: monospace; color: white;">
-	<h2 style="font-style: normal;">
+	<h2 style="font-style: normal;"> 
 	<img src="https://i.imgur.com/IhlpkjW.png" alt="THE OBAMANATION" style="margin-top: 0px; width: 963.4px; height: auto;">
 	</h2>
 	</div>
@@ -879,7 +879,7 @@ if(!campaignTrail_temp.loaded1){
 	  "description" : "Beat Goliath.",
 	  "cannotBeCheated" : true
 	},	
-        "Once More With Experience" : {
+        "Once More, With Experience" : {
 	  "image" : "https://i.imgur.com/g2WFNZ8.png",
 	  "description" : "Make a sequel better than the original.",
 	  "cannotBeCheated" : true
@@ -890,7 +890,7 @@ if(!campaignTrail_temp.loaded1){
 	  "cannotBeCheated" : true
 	},
 	"Won't Be Back" : {
-	  "image" : "https://i.imgur.com/58LOI5H.png",
+	  "image" : "https://i.imgur.com/0W7oEOw.png",
 	  "description" : "Terminate a potential Presidentinator.",
 	  "cannotBeCheated" : true
 	},
