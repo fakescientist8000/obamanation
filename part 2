@@ -36676,17 +36676,9 @@ function openSurrogates() {
         var overviewtxt  = ""
 
         winsText = `${WinsMap[String(Wins)]}`;
-        pathText = `${PathMap[String(Path)]}`;
         credText = `${CredMap[String(Cred)]}`;
         overviewtxt += "• "+ `${winsText}` + "<br>";
-        overviewtxt += "• "+ `${pathText}` + "<br>";
         overviewtxt += "• "+ `${credText}` + "<br>";
-	if(e.player_answers.includes(8913){ // SocDem path
-		    overviewtxt += "• "+  `We are going down a <span style="color: #15A600;"><i>social democratic</i></span> path.` + "<br>";
-		}
-	if(e.player_answers.includes(8909){ //NeoLib path
-		    overviewtxt += "• "+  `We are going down a <span style="color: #15A600;"><i>neoliberal</i></span> path.` + "<br>";
-		}
         if((e.player_answers.includes(9110) || e.player_answers.includes(9114) || e.player_answers.includes(8950) || e.player_answers.includes(9113) || e.player_answers.includes(8947) || e.player_answers.includes(8951) || e.player_answers.includes(9021) || e.player_answers.includes(9029) || e.player_answers.includes(9020) || e.player_answers.includes(9032) || e.player_answers.includes(9052) || e.player_answers.includes(9056) || e.player_answers.includes(9053) || e.player_answers.includes(9066) || e.player_answers.includes(9055) || e.player_answers.includes(9059) || e.player_answers.includes(9064))){ //Failed Garland
             overviewtxt += "• "+  `We've <i>resorted to</i> judge <span style="color: #CE0F0F;">Merrick Garland</span>` + "<br>";
         }
