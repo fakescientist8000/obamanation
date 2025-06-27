@@ -307,13 +307,13 @@ if(!campaignTrail_temp.loaded1){
   {searchString: "turned out to be more of a red ripple", explanationText: "<img src=https://i.imgur.com/RglaWRY.jpeg> The 2010 midterms saw the Democrats fare much better than originally thought, keeping hold of a 53 seat majority in the Senate following close wins in Illinois and Wisconsin; the House returned to GOP control, but by a smaller than estimated margin, dethroning Speaker Pelosi and her ilk."},
   {searchString: "Saudi King Abdullah", explanationText: "<img src=https://i.imgur.com/fW2MoLm.jpeg> 30 wives and counting."},
   {searchString: "Duncan", explanationText: "<img src=https://i.imgur.com/xX4ysZG.jpeg> Secretary of Education and mastermind behind Common Core."},
-  {searchString: "Cheney", explanationText: "<img src=https://i.imgur.com/a/cheney-mxeSxs3.jpeg> War Criminal #2"},
-  {searchString: "Biden", explanationText: "<img src=https://i.imgur.com/a/biden-LkYNQyf.jpeg> Certified Lover Boy"},
-  {searchString: "Clinton", explanationText: "<img src=https://i.imgur.com/a/hillary-MEtvsnj.jpeg> Evil bitch."},
-  {searchString: "John Roberts", explanationText: "<img src=https://i.imgur.com/a/john-roberts-Z4SuaMt.jpeg> Claims to be a 'moderate'. Yeah, right."},
-  {searchString: "Rumsfeld", explanationText: "<img src=https://i.imgur.com/a/rumsfeld-heweJGb.jpeg> War Criminal #3"},
-  {searchString: "Rice", explanationText: "<img src=https://i.imgur.com/a/condoleezza-rice-4S6qyun.jpeg> War Criminal #4"},
-  {searchString: "Hayden", explanationText: "<img src=https://i.imgur.com/a/michael-hayden-X3tB0EK.jpeg> Supposedly trustworthy."}
+  {searchString: "Cheney", explanationText: "<img src=https://i.imgur.com/fYYXFVw.jpeg> War Criminal #2"},
+  {searchString: "Biden", explanationText: "<img src=https://i.imgur.com/daT96lq.jpeg> Certified Lover Boy"},
+  {searchString: "Clinton", explanationText: "<img src=https://i.imgur.com/9pW4HHb.jpeg> Evil bitch."},
+  {searchString: "John Roberts", explanationText: "<img src=https://i.imgur.com/gm2PSxv.jpeg> Claims to be a 'moderate'. Yeah, right."},
+  {searchString: "Rumsfeld", explanationText: "<img src=https://i.imgur.com/wrG45xi.jpeg> War Criminal #3"},
+  {searchString: "Rice", explanationText: "<img src=https://i.imgur.com/x6iBmtZ.jpeg> War Criminal #4"},
+  {searchString: "Hayden", explanationText: "<img src=https://i.imgur.com/qVyhDn8.jpeg> Supposedly trustworthy."}
 
   ];
 	
