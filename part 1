@@ -881,12 +881,12 @@ if(!campaignTrail_temp.loaded1){
 	  "cannotBeCheated" : true
 	},	
         "Once More, With Experience" : {
-	  "image" : "https://i.imgur.com/g2WFNZ8.png",
+	  "image" : "https://i.imgur.com/lPNue5l.png",
 	  "description" : "Make a sequel better than the original.",
 	  "cannotBeCheated" : true
 	},
 	"Girlboss" : {
-	  "image" : "https://i.imgur.com/4U4rDV3.png",
+	  "image" : "https://i.imgur.com/194ry4p.png",
 	  "description" : "Gatekeep the White House.",
 	  "cannotBeCheated" : true
 	},
