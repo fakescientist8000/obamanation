@@ -28455,7 +28455,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 8922,
             "candidate": 77,
-            "answer_feedback": "Sebelius proves an inoffensive choice. 24/7 cable news stations speculate whether she'll help the Obama healthcare plan get passed, but if you think picking a red stater would appeal to conservatives, guess again. Drudge Report calls her the 'token country bumpkin' for the new elitist administration."
+            "answer_feedback": "Sebelius proves an inoffensive choice. 24/7 cable news stations speculate whether she'll help the Obama healthcare plan get passed, but if you think picking a red stater would appeal to conservatives, guess again. Drudge Report calls her the ”token country bumpkin” for the new elitist administration."
         }
     },
     {
@@ -30444,7 +30444,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 9152,
             "candidate": 77,
-            "answer_feedback": "This shocking turn has shook the global community. On the latest episode of InfoWars, Alex Jones speculates Farrakhan yelled your ear off for even suggesting Gaddafi's resignation to some obscure British politician of some fringe 'UKIP party.' The politician plays along even though they clearly don't know who that is."
+            "answer_feedback": "This shocking turn has shook the global community. On the latest episode of InfoWars, Alex Jones speculates Farrakhan yelled your ear off for even suggesting Gaddafi's resignation to some obscure British politician of some fringe 'UKIP Party.' The politician plays along even though they clearly don't know who that is."
         }
     },
     {
@@ -30903,7 +30903,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 9203,
             "candidate": 77,
-            "answer_feedback": "In spite of the onslaught of backlash you subsequently receive, you fail to budge. Its a new look for you. Even after Axelrod's presentation of your bleeding in certain states that hold some, particular disagreements with the premise of your statement, you refuse to retract it. Time will tell if what you say may come to fruition..."
+            "answer_feedback": "In spite of the onslaught of backlash you subsequently receive, you fail to budge. It's a new look for you. Even after Axelrod's presentation of your bleeding in certain states that hold some, particular disagreements with the premise of your statement, you refuse to retract it. Time will tell if what you say may come to fruition..."
         }
     },
     {
@@ -34217,6 +34217,66 @@ const ads = [
         //Wy
         var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(777);
         campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.95;
+    }
+function switcheroo27() {
+        var id = e.candidate_json.map(p=>p.pk).indexOf(78)
+        e.candidate_json[id].fields.first_name = "Sarah"
+        e.candidate_json[id].fields.last_name = "Palin"  
+        e.candidate_json[id].fields.color_hex = "#b81855" 
+
+        e.candidate_issue_score_json.filter((x) => x.fields.candidate == 78 && x.fields.issue == 28)[0].fields.issue_score = 0.1
+
+        //Ak
+        var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(729);
+        campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 2.12;
+        //Tx
+        var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(769);
+        campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.40;
+        //Al
+        var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(727);
+        campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.95;
+        //Ms
+        var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(750);
+        campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.93;
+        //Or
+        var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(763);
+        campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.05;
+        //Vi
+        var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(772);
+        campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.05;
+        //Ut
+        var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(770);
+        campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.35;
+        //Wv
+        var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(775);
+        campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.85;
+        //Wy
+        var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(777);
+        campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.95;
+    }
+    function switcheroo28() {
+        var id = e.candidate_json.map(p=>p.pk).indexOf(78)
+        e.candidate_json[id].fields.first_name = "John"
+        e.candidate_json[id].fields.last_name = "McCain"      
+
+        //Az
+        var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(770);
+        campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 1.25;
+    }
+    function switcheroo29() {
+        var id = e.candidate_json.map(p=>p.pk).indexOf(78)
+        e.candidate_json[id].fields.first_name = "Arnold"
+        e.candidate_json[id].fields.last_name = "Schwarznegger"      
+
+        //CA
+        var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(770);
+        campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.25;
+        //NY
+        var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(770);
+        campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.25;
+        //WV
+        var id = campaignTrail_temp.candidate_state_multiplier_json.map(p => p.pk).indexOf(770);
+        campaignTrail_temp.candidate_state_multiplier_json[id].fields.state_multiplier = 0.25;
     }
 	// 3rd party 
 	function switcheroo8() {
