@@ -36326,7 +36326,7 @@ const ads = [
 			}
 		}
 			   
-		//1 == Rice, 26 == Huntsman, 2 == Bloomberg, 22 = Romney, 25 == Trump, 5 == Gingrich, 24 == Arpaio, 21 == Bachmann, 20 = Paul, 6 == Cheney, 7 == Christie, 4 == Petraeus, 3 == McChrystal
+		//1 == Rice, 26 == Huntsman, 2 == Bloomberg, 22 = Romney, 25 == Trump, 5 == Gingrich, 24 == Arpaio, 21 == Bachmann, 20 = Paul, 6 == Cheney, 7 == “, 4 == Petraeus, 3 == McChrystal
 		if(e.noCounter == 32){
             let index = menuItemsA.findIndex(item => item.id === 'RICE_A');
             if(Rep != 1){
@@ -36429,7 +36429,7 @@ const ads = [
 		refreshSurrogates()    
 	}
 
-let vpName = "ERROR YOU DIDN'T SET ME";
+let vpName = "KILL YOURSELF";
 
 vpTable = {
     "Barack Obama" : vpName,
@@ -36447,6 +36447,9 @@ vpTable = {
     "Ron Paul" : "Herman Cain",
     "Joe Arpaio" : "Bobby Jindal",
     "Dick Cheney" : "Michael Steele",
+    "John McCain" : "Joe Lieberman",
+    "Sarah Palin" : "Allen West",
+    "Arnold Schwarznegger" : "Rudy Guiliani",
 	
 	
 	"Gary Johnson" : "Mark B. Madsen",
