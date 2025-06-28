@@ -262,12 +262,12 @@ if(!campaignTrail_temp.loaded1){
   {searchString: "John Boehner", explanationText: "<img src=https://i.imgur.com/HFRocAv.jpeg> House Republican leader."},
   {searchString: "Boehner", explanationText: "<img src=https://i.imgur.com/HFRocAv.jpeg> House Republican leader."},
   {searchString: "Bob Bauer", explanationText: "<img src=https://i.imgur.com/ujXmSnP.jpeg> White House Counsel. The sledgehammer."},
-  {searchString: "Robert Gates", explanationText: "<img src=https://i.imgur.com/eti4kCD.jpeg> A testament to the amount of change we should be expecting from your presidency?"},
-  {searchString: "Gates", explanationText: "<img src=https://i.imgur.com/eti4kCD.jpeg> A testament to the amount of change we should be expecting from your presidency?"},
+  {searchString: "Robert Gates", explanationText: "<img src=https://i.imgur.com/eti4kCD.jpeg> A testament to the amount of change we should be expecting from your presidency."},
   {searchString: "Larry Summers", explanationText: "<img src=https://i.imgur.com/CbA8pXH.jpeg> Failing upwards."},
   {searchString: "Barney", explanationText: "<img src=https://i.imgur.com/KQhRYUr.jpeg> Nipples protruding."},
   {searchString: "Barney Frank", explanationText: "<img src=https://i.imgur.com/KQhRYUr.jpeg> Nipples protruding."},
   {searchString: "Glenn Beck", explanationText: "<img src=https://i.imgur.com/nZJc2Yl.jpeg> School's in session."},
+  {searchString: "Beck", explanationText: "<img src=https://i.imgur.com/nZJc2Yl.jpeg> School's in session."},
   {searchString: "Michelle", explanationText: "<img src=https://i.imgur.com/JZJTOJc.jpeg> Proud of her country."},
   {searchString: "Muammar Gaddafi", explanationText: "<img src=https://i.imgur.com/3X5d8we.jpeg> Libya's strongman. That is how you spell it, right?"},
   {searchString: "Gaddafi", explanationText: "<img src=https://i.imgur.com/3X5d8we.jpeg> Libya's strongman. That is how you spell it, right?"},
@@ -316,7 +316,7 @@ if(!campaignTrail_temp.loaded1){
   {searchString: "Rumsfeld", explanationText: "<img src=https://i.imgur.com/wrG45xi.jpeg> War Criminal #3"},
   {searchString: "Rice", explanationText: "<img src=https://i.imgur.com/x6iBmtZ.jpeg> War Criminal #4"},
   {searchString: "Hayden", explanationText: "<img src=https://i.imgur.com/qVyhDn8.jpeg> Supposedly trustworthy."},
-  {searchString: "McCain", explanationText: "<img src=https://i.imgur.com/iG7dymX.jpeg> Saving face."}
+  {searchString: "McCain", explanationText: "<img src=https://i.imgur.com/iG7dymX.jpeg> Saving face."},
 
   ];
 	
