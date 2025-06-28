@@ -36721,13 +36721,13 @@ function openSurrogates() {
         }
 		
 		if(e.player_answers.includes(8930)||e.player_answers.includes(8943)){
-		    overviewtxt += "• "+  `We've <i>passed</i> a <span style="color: #15A600;">1.1 trillion</span> stimulus plan` + "<br>";
+		    overviewtxt += "• "+  `We've <i>passed</i> a <span style="color: #15A600;">$1.1 trillion</span> stimulus plan` + "<br>";
 		}
 		if(e.player_answers.includes(8931)||e.player_answers.includes(8934)||e.player_answers.includes(8944)){
-		    overviewtxt += "• "+  `We've <i>passed</i> a <span style="color: #98D937;">780 billion</span> stimulus plan` + "<br>";
+		    overviewtxt += "• "+  `We've <i>passed</i> a <span style="color: #98D937;">$780 billion</span> stimulus plan` + "<br>";
 		}
 		if(e.player_answers.includes(8932)){
-		    overviewtxt += "• "+  `We've <i>passed</i> a <span style="color: #FADC0E;">450 billion</span> stimulus plan` + "<br>";
+		    overviewtxt += "• "+  `We've <i>passed</i> a <span style="color: #FADC0E;">$450 billion</span> stimulus plan` + "<br>";
 		}
 		
 		if(e.player_answers.includes(8994)){
