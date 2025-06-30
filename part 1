@@ -317,7 +317,7 @@ if(!campaignTrail_temp.loaded1){
   {searchString: "Rice", explanationText: "<img src=https://i.imgur.com/x6iBmtZ.jpeg> War Criminal #4"},
   {searchString: "Hayden", explanationText: "<img src=https://i.imgur.com/qVyhDn8.jpeg> Supposedly trustworthy."},
   {searchString: "McCain", explanationText: "<img src=https://i.imgur.com/iG7dymX.jpeg> Saving face."},
-  {searchString: "Elena Kagan", explanationText: "<img src=https://i.imgur.com/aNJUFjZ.jpeg>  Totally not lesbian."},
+  {searchString: "Elena Kagan", explanationText: "<img src=https://i.imgur.com/aNJUFjZ.jpeg> Totally not lesbian."},
   {searchString: "Sonia Sotomayor", explanationText: "<img src=https://i.imgur.com/cPhG7bN.jpeg> The Bush family's favorite Latina."},
   {searchString: "Merrick Garland", explanationText: "<img src=https://i.imgur.com/JIhU6Yx.jpeg> Mr. Compromise, and the GOP's favorite nominee."},
   {searchString: "Leah Ward Sears", explanationText: "<img src=https://i.imgur.com/Aagngj3.jpeg> Radical."},
